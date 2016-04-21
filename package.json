@@ -1,0 +1,11 @@
+{
+  "name": "eslint-rule-no-for-in",
+  "version": "1.0.0",
+  "description": "Block use of for-in loops in JS code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Ford <jhford@mozilla.com>",
+  "license": "MPL-2.0"
+}
